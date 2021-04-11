@@ -1,2 +1,2 @@
 # CS50-Harvard-GoogleSearch Pages
-Harvard certificate
+Harvard certificate assignment, imitation of Google search pages (HTML, CSS)
